@@ -1,0 +1,33 @@
+8
+69;Tinted glass icosahedron edge type 2;Hays-Anderson;GLASS
+76;Hemisphere rusted junk;Hays-Anderson;GLASS
+18;Polyethylene octahedron Mk II;Hays-Anderson;PLASTIC
+44;Hexagonal pyramid Catun No.3;Hays-Anderson;PLASTIC
+35;Iron cylinder Catun No.2;Cooper, Price and Davis;METAL
+16;Frosted glass hexagonal pyramid edge type 3;Cooper, Price and Davis;GLASS
+54;Polystyrene hemisphere Mk III;Cooper, Price and Davis;PLASTIC
+20;Wood cone Catun No.3;Cooper, Price and Davis;ORGANIC
+23
+20;16;18;NONE
+20;54;16;GLASS
+76;16;21;PLASTIC
+35;44;26;ORGANIC
+69;16;17;METAL
+54;69;30;ORGANIC
+16;69;12;NONE
+18;20;17;PLASTIC
+69;54;22;NONE
+20;69;23;PLASTIC
+44;54;25;ORGANIC
+76;54;27;GLASS
+76;35;24;ORGANIC
+69;20;22;ORGANIC
+44;69;18;NONE
+54;18;28;NONE
+35;20;12;NONE
+20;18;29;NONE
+69;44;10;PLASTIC
+18;76;14;ORGANIC
+76;20;12;ORGANIC
+16;20;15;ORGANIC
+54;35;25;NONE
