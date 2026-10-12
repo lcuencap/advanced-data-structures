@@ -39,3 +39,7 @@ java -cp build terror.RTreeKnnTest
 This copy preserves the team's source while omitting IDE output and large datasets. The k-nearest-neighbor routine was corrected to replace the current farthest result when a closer candidate is found; it also handles a search with no unknown monsters. The original coursework repository was not changed.
 
 This was a group project by Laura Cuenca, Oleguer Almuni, Nil de Creus, and Alexandre Contreras. The code is presented as shared team work; this repository does not claim individual ownership of specific modules.
+
+## Academic report
+
+The [team report](report.pdf) explains the data-structure choices, tests, and performance comparisons behind the project.
